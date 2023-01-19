@@ -3370,7 +3370,18 @@
       "contributions": [
         "code"
       ]
-    }
+    },
+    {
+      "login": "aditya-shrivastavv",
+      "name": "Aditya Shrivastava",
+      "avatar_url": "https://avatars.githubusercontent.com/aditya-shrivastavv",
+      "profile": "https://github.com/aditya-shrivastavv",
+      "contributions": [
+        "bug",
+        "code",
+        "doc"
+      ]
+    },
   ],
   "repoType": "github",
   "repoHost": "https://github.com",
