@@ -260,7 +260,8 @@ function doNf(num, left, right) {
           decPart = decPart.substring(0, i) + '0' + decPart.substring(i + 1);
           i--;
         } else {
-          decPart = decPart.substring(0, i) + (parseInt(decPart[i], 10) + 1).toString();
+          decPart = decPart.substring(0, i) +
+          (parseInt(decPart[i], 10) + 1).toString();
           break;
         }
       }
